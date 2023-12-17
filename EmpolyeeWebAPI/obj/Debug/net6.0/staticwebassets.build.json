@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6QQKkjh9rsA7jXEDj5X51iun29ctllFFAG8AcmtKK1A=",
+  "Source": "EmpolyeeWebAPI",
+  "BasePath": "_content/EmpolyeeWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
